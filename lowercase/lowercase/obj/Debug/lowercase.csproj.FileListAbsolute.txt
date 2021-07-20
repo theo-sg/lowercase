@@ -1,0 +1,10 @@
+D:\Programming 2021\lowercase\lowercase\lowercase\bin\Debug\lowercase.exe.config
+D:\Programming 2021\lowercase\lowercase\lowercase\bin\Debug\lowercase.exe
+D:\Programming 2021\lowercase\lowercase\lowercase\bin\Debug\lowercase.pdb
+D:\Programming 2021\lowercase\lowercase\lowercase\obj\Debug\lowercase.csprojAssemblyReference.cache
+D:\Programming 2021\lowercase\lowercase\lowercase\obj\Debug\lowercase.Form1.resources
+D:\Programming 2021\lowercase\lowercase\lowercase\obj\Debug\lowercase.Properties.Resources.resources
+D:\Programming 2021\lowercase\lowercase\lowercase\obj\Debug\lowercase.csproj.GenerateResource.cache
+D:\Programming 2021\lowercase\lowercase\lowercase\obj\Debug\lowercase.csproj.CoreCompileInputs.cache
+D:\Programming 2021\lowercase\lowercase\lowercase\obj\Debug\lowercase.exe
+D:\Programming 2021\lowercase\lowercase\lowercase\obj\Debug\lowercase.pdb
